@@ -27,7 +27,7 @@ cp_cs = 500                                 # Specific heat caoacity of carcon s
 alpha_cs = k_cs/(rho_cs*cp_cs)              # Thermal diffusivity of carbon steel [W/(mK)]
 
 # Aluminium
-k_al = 205                                  # Thermal conductivity of aluminium steel [W/(mK)]
+k_al = 237                                  # Thermal conductivity of aluminium steel [W/(mK)]
 rho_al = 2700                               # Density of aluminium [kg/m³]
 cp_al = 897                                 # Specific heat caoacity of aluminium [J/(kgK)]
 alpha_al = k_al/(rho_al*cp_al)              # Thermal diffusivity of aluminium [W/(mK)]
